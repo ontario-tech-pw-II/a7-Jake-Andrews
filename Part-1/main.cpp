@@ -8,8 +8,7 @@ using namespace std;
 int main()
 {
 
-	// Create Account for Angelina
-
+	// Create Account for Angelina	
 	Account * Angelina_Account[2];
     
 	// initialize Angelina Accounts
